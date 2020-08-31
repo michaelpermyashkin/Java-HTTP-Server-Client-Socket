@@ -1,0 +1,8 @@
+I am another file you are able to read. They call me file 2.
+
+You got this file from dir2/, right?
+
+
+This file was written for only one reason... I have an assignment.
+
+This is the end of the file. Hope you come back soon!!!!!

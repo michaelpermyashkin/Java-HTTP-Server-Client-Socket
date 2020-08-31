@@ -1,0 +1,6 @@
+You can see what is inside this file. I am file 1 located in directory 2.
+
+This is a second line of text from the file.
+
+
+This file has several lines of text that you are able to read. ENJOY:)

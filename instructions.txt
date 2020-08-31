@@ -1,0 +1,20 @@
+Michael Permyashkin's Simple Server Instructions
+-------------------------------------------------
+
+1.) Open 2 terminals at the location of both .java files
+
+
+2.) Server.java
+
+    - Compile --> javac Server.java
+    - Run     --> java Server.java 8090
+
+
+3.) Client.java
+
+    - Compile --> javac Client.java
+    - Run     --> java Client.java 127.0.0.1 8090
+
+
+4.) From the client enter a directory shown in the welcome message and hit return.
+    Wait for the Server to respond.

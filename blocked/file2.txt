@@ -1,0 +1,1 @@
+This is file 1 in the forbidden directory. You should not be able to see this.
